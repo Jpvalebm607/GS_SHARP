@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|c:\\users\\jpval\\desktop\\apagouaqui_app\\apagouaqui_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|solutionrelative:apagouaqui_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|c:\\users\\jpval\\desktop\\apagouaqui_app\\apagouaqui_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|solutionrelative:apagouaqui_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|c:\\users\\jpval\\desktop\\apagouaqui_app\\apagouaqui_app\\registrofalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|solutionrelative:apagouaqui_app\\registrofalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|c:\\users\\jpval\\desktop\\apagouaqui_app\\apagouaqui_app\\prejuizo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA14295-CD49-4209-AEE4-B6F162EBFABE}|apagouaqui_app\\apagouaqui_app.csproj|solutionrelative:apagouaqui_app\\prejuizo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prejuizo.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\Prejuizo.cs",
+              "RelativeDocumentMoniker": "apagouaqui_app\\Prejuizo.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\Prejuizo.cs",
+              "RelativeToolTip": "apagouaqui_app\\Prejuizo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:29:02.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroFalha.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\RegistroFalha.cs",
+              "RelativeDocumentMoniker": "apagouaqui_app\\RegistroFalha.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\RegistroFalha.cs",
+              "RelativeToolTip": "apagouaqui_app\\RegistroFalha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:26:13.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\Form1.cs",
+              "RelativeDocumentMoniker": "apagouaqui_app\\Form1.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\Form1.cs",
+              "RelativeToolTip": "apagouaqui_app\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAIAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:23:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\Form1.cs",
+              "RelativeDocumentMoniker": "apagouaqui_app\\Form1.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\apagouaqui_app\\apagouaqui_app\\Form1.cs [Projeto]",
+              "RelativeToolTip": "apagouaqui_app\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:59:09.211Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

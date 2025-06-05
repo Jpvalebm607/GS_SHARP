@@ -12,7 +12,7 @@
 
 ## 🎥 **Link do vídeo (YouTube)**
 
-👉 [INSIRA AQUI O LINK DO VÍDEO QUANDO PUBLICAR]
+👉 https://www.youtube.com/watch?v=ChPbLB20PTo
 
 ---
 
